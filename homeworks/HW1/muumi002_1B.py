@@ -1,4 +1,4 @@
-# CSCI 1133, Lab Section XXX, HW 1, Problem 1B
+# CSCI 1133, Lab Section 008, HW 1, Problem 1B
 # Amina_Muumin, muumi002
 # Program: fahr_to_cel_to_kel.py 
 # Purpose: This program takes as input an fahrenheit temperature and calculates 
