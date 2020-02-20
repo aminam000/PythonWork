@@ -1,3 +1,4 @@
+#Amina Muumin, muumi002, lab 008, HW3A
 def CMYK_to_RGB(C,M,Y,K):
     C/= 100
     M/= 100
