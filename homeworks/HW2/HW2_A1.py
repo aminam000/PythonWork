@@ -1,3 +1,4 @@
+#Amina Muumin, muumi002, 008 HW2_A1
 def subtractWhile(total,num,times):
     while times > 0:
         value = total - (num * times)

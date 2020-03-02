@@ -1,3 +1,4 @@
+#Amina Muumin, muumi002, 008 HW2_A2
 def subtractFor(total, num, times):
     for i in range(times):
         value = total - (num * times)

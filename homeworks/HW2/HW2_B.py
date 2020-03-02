@@ -1,4 +1,4 @@
-
+#Amina Muumin, muumi002, 008 HW2_B
 def h_and_b(weight, height, age, gender):
     if gender == 'F':
         BMR = 655.1+(9.563*weight)+(1.850*height)-(4.676*age)
