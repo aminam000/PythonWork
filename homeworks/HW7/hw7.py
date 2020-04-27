@@ -86,7 +86,7 @@ main()
 #==========================================
 # Name: CourseGrades
 # Purpose: Creates an average grade for the course for students
-# Precondition: (What needs to be true for function to work?)
+# Precondition: StudentGrades needs to exist
 # Input Parameter(s): course, section, semester, year, and list of StudentGrades objects
 # Return Value(s): an average of all the students grades who are in the course
 #============================================
